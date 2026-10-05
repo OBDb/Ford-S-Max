@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22168B
+test_cases:
+- expected_values:
+    S_MAX_FUEL_INJ_IMPULSE: 0.00183
+  response: 7E80562168B00E5
+- expected_values:
+    S_MAX_FUEL_INJ_IMPULSE: 0.00204
+  response: 7E80562168B00FF
+- expected_values:
+    S_MAX_FUEL_INJ_IMPULSE: 0.00205
+  response: 7E80562168B0100
+- expected_values:
+    S_MAX_FUEL_INJ_IMPULSE: 0.00617
+  response: 7E80562168B0303

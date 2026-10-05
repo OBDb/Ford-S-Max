@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    S_MAX_MAP_HIRES: 97.25
+  response: '7E8056203700185'
+- expected_values:
+    S_MAX_MAP_HIRES: 126.75
+  response: 7E80562037001FB
+- expected_values:
+    S_MAX_MAP_HIRES: 128
+  response: '7E8056203700200'
+- expected_values:
+    S_MAX_MAP_HIRES: 192.25
+  response: '7E8056203700301'

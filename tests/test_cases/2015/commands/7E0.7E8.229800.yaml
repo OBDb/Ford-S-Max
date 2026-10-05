@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.229800
+test_cases:
+- expected_values:
+    S_MAX_AC_P_SENS_V: 0.79004
+  response: '7E8056298000329'
+- expected_values:
+    S_MAX_AC_P_SENS_V: 1
+  response: '7E8056298000400'
+- expected_values:
+    S_MAX_AC_P_SENS_V: 1.24902
+  response: 7E80562980004FF
+- expected_values:
+    S_MAX_AC_P_SENS_V: 2.04004
+  response: '7E8056298000829'

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    S_MAX_ECT: 71.67188
+  response: 7E80562038F11EB
+- expected_values:
+    S_MAX_ECT: 72.17188
+  response: 7E80562038F120B
+- expected_values:
+    S_MAX_ECT: 72.67188
+  response: 7E80562038F122B

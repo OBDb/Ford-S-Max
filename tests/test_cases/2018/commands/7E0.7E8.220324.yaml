@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    S_MAX_HPFP_V: 0.48876
+  response: '7E8056203240064'
+- expected_values:
+    S_MAX_HPFP_V: 0.49365
+  response: '7E8056203240065'

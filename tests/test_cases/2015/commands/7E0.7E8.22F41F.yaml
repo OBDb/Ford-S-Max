@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    S_MAX_RUN_TIME: 10
+  response: 7E80562F41F000A
+- expected_values:
+    S_MAX_RUN_TIME: 254
+  response: 7E80562F41F00FE
+- expected_values:
+    S_MAX_RUN_TIME: 1538
+  response: 7E80562F41F0602
+- expected_values:
+    S_MAX_RUN_TIME: 4877
+  response: 7E80562F41F130D

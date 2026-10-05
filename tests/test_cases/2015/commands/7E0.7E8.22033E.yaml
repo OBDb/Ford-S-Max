@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    S_MAX_TIP_ABS: 7.69962
+  response: 7E80562033E1B2F
+- expected_values:
+    S_MAX_TIP_ABS: 13.8779
+  response: 7E80562033E30FF
+- expected_values:
+    S_MAX_TIP_ABS: 15.29966
+  response: 7E80562033E3604
+- expected_values:
+    S_MAX_TIP_ABS: 29.98968
+  response: 7E80562033E69E1

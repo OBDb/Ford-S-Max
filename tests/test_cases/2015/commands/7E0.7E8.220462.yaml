@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    S_MAX_WGDC: 0
+  response: '7E8056204620000'
+- expected_values:
+    S_MAX_WGDC: 88.26904
+  response: 7E80562046270FC
+- expected_values:
+    S_MAX_WGDC: 100
+  response: '7E8056204628000'

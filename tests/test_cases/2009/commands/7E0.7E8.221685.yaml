@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221685
+test_cases:
+- expected_values:
+    S_MAX_CYL_HEAD_T_ALT: 39.902
+  response: 7E805621685008E
+- expected_values:
+    S_MAX_CYL_HEAD_T_ALT: 71.655
+  response: 7E80562168500FF
+- expected_values:
+    S_MAX_CYL_HEAD_T_ALT: 72.217
+  response: '7E8056216850101'
+- expected_values:
+    S_MAX_CYL_HEAD_T_ALT: 144.715
+  response: '7E8056216850203'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F45C
+test_cases:
+- expected_values:
+    S_MAX_EOT_F45C: 9
+  response: 7E80462F45C31
+- expected_values:
+    S_MAX_EOT_F45C: 94
+  response: 7E80462F45C86
