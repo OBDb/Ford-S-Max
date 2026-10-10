@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_S-Max"
+
+generations:
+  - name: "First Generation"
+    start_year: 2006
+    end_year: 2015
+    description: "The first S-Max, sharing its platform with the Mondeo and Galaxy, with Duratec gasoline and Duratorq diesel engines and later EcoBoost engines."
+  - name: "Second Generation"
+    start_year: 2015
+    end_year: 2023
+    description: "The second S-Max, on the CD4 platform shared with the fifth-generation Mondeo, with EcoBoost and EcoBlue engines and a hybrid from 2021."

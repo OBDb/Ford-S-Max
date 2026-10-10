@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22113C
+test_cases:
+- expected_values:
+    S_MAX_EGR_DUTY: 0
+  response: 7E80562113C0000
+- expected_values:
+    S_MAX_EGR_DUTY: 58
+  response: 7E80562113C3AFF
+- expected_values:
+    S_MAX_EGR_DUTY: 88
+  response: 7E80562113C5832

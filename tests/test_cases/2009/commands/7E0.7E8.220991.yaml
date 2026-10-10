@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.220991
+test_cases:
+- expected_values:
+    S_MAX_EGT_PRE_DOC: 100
+  response: 7E805620991008C

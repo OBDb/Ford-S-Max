@@ -1,0 +1,5 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    S_MAX_12V_AGE: 21072
+  response: 72E05624027036E

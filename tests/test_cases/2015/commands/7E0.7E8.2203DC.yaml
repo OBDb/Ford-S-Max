@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    S_MAX_HPFP_DES: 24990
+  response: 7E8056203DC09C3
+- expected_values:
+    S_MAX_HPFP_DES: 28150
+  response: 7E8056203DC0AFF
+- expected_values:
+    S_MAX_HPFP_DES: 28160
+  response: 7E8056203DC0B00
+- expected_values:
+    S_MAX_HPFP_DES: 113590
+  response: 7E8056203DC2C5F

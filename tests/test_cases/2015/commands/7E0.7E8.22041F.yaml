@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    S_MAX_LPFP_DES: 57.855
+  response: 7E80462041F85

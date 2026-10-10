@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    S_MAX_LPFP_DUTY: 24.99695
+  response: 7E8056203071FFF
+- expected_values:
+    S_MAX_LPFP_DUTY: 70.31555
+  response: 7E8056203075A01
+- expected_values:
+    S_MAX_LPFP_DUTY: 72.69592
+  response: 7E8056203075D0D

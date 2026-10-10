@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    S_MAX_EVAP_PURGE_CMD: 76.48315
+  response: 7E80562116661E6

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    S_MAX_DIST_DTC_CLR: 0
+  response: 7E80562F4310000
+- expected_values:
+    S_MAX_DIST_DTC_CLR: 26623
+  response: 7E80562F43167FF
+- expected_values:
+    S_MAX_DIST_DTC_CLR: 37120
+  response: 7E80562F4319100

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    S_MAX_MAP: 7.68706
+  response: 7E80462F40B35
+- expected_values:
+    S_MAX_MAP: 23.93143
+  response: 7E80462F40BA5

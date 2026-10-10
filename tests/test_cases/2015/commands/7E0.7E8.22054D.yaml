@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    S_MAX_LPFP_SENS_V: 0.55957
+  response: 7E80562054D023D
+- expected_values:
+    S_MAX_LPFP_SENS_V: 2.24902
+  response: 7E80562054D08FF
+- expected_values:
+    S_MAX_LPFP_SENS_V: 2.25195
+  response: 7E80562054D0902

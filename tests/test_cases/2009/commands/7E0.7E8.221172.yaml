@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221172
+test_cases:
+- expected_values:
+    S_MAX_BAT_V: 0.0625
+  response: '7E80462117201'
+- expected_values:
+    S_MAX_BAT_V: 14.5625
+  response: 7E804621172E9
