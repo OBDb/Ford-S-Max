@@ -4,8 +4,8 @@ test_cases:
     S_MAX_EGR_DUTY: 0
   response: 7E80562113C0000
 - expected_values:
-    S_MAX_EGR_DUTY: 84
-  response: 7E80562113C54FF
+    S_MAX_EGR_DUTY: 58
+  response: 7E80562113C3AFF
 - expected_values:
     S_MAX_EGR_DUTY: 88
-  response: 7E80562113C5833
+  response: 7E80562113C5832

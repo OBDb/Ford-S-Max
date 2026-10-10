@@ -7,5 +7,5 @@ test_cases:
     S_MAX_DIST_DTC_CLR: 26623
   response: 7E80562F43167FF
 - expected_values:
-    S_MAX_DIST_DTC_CLR: 36652
-  response: 7E80562F4318F2C
+    S_MAX_DIST_DTC_CLR: 37120
+  response: 7E80562F4319100

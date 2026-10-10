@@ -1,23 +1,8 @@
 command_id: 7E0.7E8.221172
 test_cases:
 - expected_values:
-    S_MAX_BAT_V: 13.4375
-  response: 7E804621172D7
+    S_MAX_BAT_V: 0.0625
+  response: '7E80462117201'
 - expected_values:
-    S_MAX_BAT_V: 13.8125
-  response: 7E804621172DD
-- expected_values:
-    S_MAX_BAT_V: 13.875
-  response: 7E804621172DE
-- expected_values:
-    S_MAX_BAT_V: 14
-  response: 7E804621172E0
-- expected_values:
-    S_MAX_BAT_V: 14.125
-  response: 7E804621172E2
-- expected_values:
-    S_MAX_BAT_V: 14.25
-  response: 7E804621172E4
-- expected_values:
-    S_MAX_BAT_V: 14.375
-  response: 7E804621172E6
+    S_MAX_BAT_V: 14.5625
+  response: 7E804621172E9

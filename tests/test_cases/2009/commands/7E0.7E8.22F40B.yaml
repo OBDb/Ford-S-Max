@@ -4,5 +4,5 @@ test_cases:
     S_MAX_MAP: 0
   response: 7E80462F40B00
 - expected_values:
-    S_MAX_MAP: 34.22919
-  response: 7E80462F40BEC
+    S_MAX_MAP: 34.80935
+  response: 7E80462F40BF0

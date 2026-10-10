@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22FD18
 test_cases:
 - expected_values:
-    S_MAX_AC_P_7E0: 692.94119
-  response: 7E80462FD1839
+    S_MAX_AC_P_7E0: 595.68629
+  response: 7E80462FD1831
 - expected_values:
     S_MAX_AC_P_7E0: 1410.19611
   response: 7E80462FD1874

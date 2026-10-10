@@ -7,8 +7,8 @@ test_cases:
     S_MAX_CYL_HEAD_T_ALT: 71.655
   response: 7E80562168500FF
 - expected_values:
-    S_MAX_CYL_HEAD_T_ALT: 72.217
-  response: '7E8056216850101'
+    S_MAX_CYL_HEAD_T_ALT: 71.936
+  response: '7E8056216850100'
 - expected_values:
     S_MAX_CYL_HEAD_T_ALT: 144.715
   response: '7E8056216850203'

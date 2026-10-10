@@ -336,7 +336,7 @@
   "signals": [
     {"id": "S_MAX_CYL_4_FUEL_BALANCE", "path": "Fuel", "fmt": {"bix": 8, "len": 24, "max": 65.53, "min": -65.53, "div": 128000, "sign": true, "unit": "scalar" }, "name": "Cylinder 4 fuel balance correction"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0991"}, "freq": 5,
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0991"}, "freq": 5, "dbgfilter": { "to": 2008, "from": 2010 },
   "signals": [
     {"id": "S_MAX_EGT_PRE_DOC", "path": "Engine", "fmt": { "len": 16, "max": 1500, "min": -40, "add": -40, "unit": "celsius" }, "name": "Exhaust gas temperature after turbo, before oxidation catalyst"}
   ]},
