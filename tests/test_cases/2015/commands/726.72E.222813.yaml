@@ -4,6 +4,9 @@ test_cases:
     S_MAX_TP_FL: 30.9
   response: 72E05622813026A
 - expected_values:
+    S_MAX_TP_FL: 33.4
+  response: 72E05622813029C
+- expected_values:
     S_MAX_TP_FL: 39.5
   response: '72E056228130316'
 - expected_values:
