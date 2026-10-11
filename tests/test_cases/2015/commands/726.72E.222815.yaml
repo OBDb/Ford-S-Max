@@ -4,6 +4,9 @@ test_cases:
     S_MAX_TP_RRO: 31.15
   response: 72E05622815026F
 - expected_values:
+    S_MAX_TP_RRO: 33.5
+  response: 72E05622815029E
+- expected_values:
     S_MAX_TP_RRO: 41.5
   response: 72E05622815033E
 - expected_values:
